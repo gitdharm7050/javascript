@@ -76,7 +76,7 @@ let negValue =-value
 
 let str1= "dharm"
 let str2=" veer"
-let str3
+let str3= str1+str2
 console.log(str3)     //output dharm veer
 
 // some  operations with their output 
